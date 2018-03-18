@@ -11,7 +11,7 @@
 
 ---
 ### Introducing your instructor, David Marsland
-* <a target="_ref" href="https://www.linkedin.com/in/DavideMarsland">https://www.linkedin.com/in/DavideMarsland</a>
+* <a target="_ref" href="https://www.linkedin.com/in/davidemarsland">https://www.linkedin.com/in/davidemarsland</a>
 * Web Development since the Dawn of the Web <br>
 <a target="_ref" href="https://web.archive.org/web/19970616152144fw_/http://reality.sgi.com:80/mars_corp/"><img src="https://web.archive.org/web/19971210071250im_/http://reality.sgi.com:80/images/sgipowered.gif" /><br>Wayback Machine 1997 reality.sgi.com/mars_corp</a>
 * <a target="_ref" href="http://www.evolutionoftheweb.com/">http://www.evolutionoftheweb.com/</a>
@@ -64,3 +64,9 @@
 * HTML Basics <a target="_htmldog" href="http://www.htmldog.com/guides/html/beginner/">http://www.htmldog.com/guides/html/beginner/</a>
 
 * CSS Basics <a target="_htmldog" href="http://www.htmldog.com/guides/css/beginner">http://www.htmldog.com/guides/css/beginner</a>
+
+---
+### References
+<a target="_marksheet" href="https://marksheet.io/"><img src="https://marksheet.io/images/marksheet-logo.png"></a>
+
+* MarkSheet: a free HTML and CSS tutorial <a target="_marksheet" href="https://marksheet.io/">https://marksheet.io/</a>
