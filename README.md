@@ -66,6 +66,10 @@
 * CSS Basics <a target="_htmldog" href="http://www.htmldog.com/guides/css/beginner">http://www.htmldog.com/guides/css/beginner</a>
 
 ---
+### HTMLDog Lab Examples
+
+* <a target="_labs" href="./html">HTMLDog Lab Examples from Beginner and Intermediate HTML and CSS</a>
+---
 ### References
 <a target="_marksheet" href="https://marksheet.io/"><img src="https://marksheet.io/images/marksheet-logo.png"></a>
 
