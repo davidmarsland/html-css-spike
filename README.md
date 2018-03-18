@@ -1,6 +1,6 @@
 # html-css-spike
 
-### Welcome to Html5 and CSS3 Learning Spike
+### Welcome to HTML5 and CSS3 Learning Spike
 #### Instructor: David Marsland
 <br>
 <img src="http://www.developintelligence.com/sites/all/themes/diresponsive/images/Develop-Intelligence-logo-f.png">
